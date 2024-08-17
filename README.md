@@ -13,3 +13,5 @@ We do Synthesis, Placement, Routing and Power Planning in this stage and we gene
 After this it will go to some digital level checks(it basically checks for connectivity ) and this goes to foundary and once we get from factory we have to create a board and we pass the same test bench in C language and measures and Output O4 and check O4==
 
 ![WhatsApp Image 2024-08-17 at 8 12 18 AM](https://github.com/user-attachments/assets/c15b7dbc-4abb-4b6a-82a9-2ae6fa85cc31)
+![WhatsApp Image 2024-08-17 at 8 12 18 AM (1)](https://github.com/user-attachments/assets/f0e65bf3-3fa8-4721-99ee-8747091c514c)
+
